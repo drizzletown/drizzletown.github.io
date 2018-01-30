@@ -1,16 +1,16 @@
 <<<<<<< HEAD
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
+name: 细雨邻家
+email: lxf@cumt.edu.cn
+author: Lei Xiaofeng
+url: drizzletown.github.io
+resume_site: drizzletown.github.io
+github: https://github.com/drizzletown/drizzletown.github.io
+baseurl: ""
 description: Actually, less is more!
-meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+meta_description: 
 motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+banner: 自由 平等 宽容 自律。
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
@@ -18,13 +18,11 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: drizzletown
 
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
-
 =======
 theme: jekyll-theme-leap-day
->>>>>>> 35d2c30ff7687c004b6e45296718fe2b25a78123
+
