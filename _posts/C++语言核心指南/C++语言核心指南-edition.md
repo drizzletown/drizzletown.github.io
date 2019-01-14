@@ -403,10 +403,10 @@ January 3, 2019
 原理规则概要：
 
 * [P.1: 直接用代码表达想法（Express ideas directly in code）](#Rp-direct)
-* [P.2: 使用ISO标准C++bianch](#Rp-Cplusplus)
-* [P.3: Express intent](#Rp-what)
-* [P.4: Ideally, a program should be statically type safe](#Rp-typesafe)
-* [P.5: Prefer compile-time checking to run-time checking](#Rp-compile-time)
+* [P.2: 使用ISO标准C++编程](#Rp-Cplusplus)
+* [P.3: 表示意图（Express intent）](#Rp-what)
+* [P.4: 理想情况下程序应静态类型安全（Ideally, a program should be statically type safe）](#Rp-typesafe)
+* [P.5: 编译期检查优先于运行期检查（Prefer compile-time checking to run-time checking）](#Rp-compile-time)
 * [P.6: What cannot be checked at compile time should be checkable at run time](#Rp-run-time)
 * [P.7: Catch run-time errors early](#Rp-early)
 * [P.8: Don't leak any resources](#Rp-leak)
